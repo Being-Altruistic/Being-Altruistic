@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shevin Vinoy, Happy you are here...</h1>
-<h3 align="center">A True hustler | Solutionist | Passionate developer | You are for some purpose... let's connect!</h3>
+<h3 align="center">A True hustler, Solutionist, Passionate developer | You are here with some purpose... let's connect!</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Being-Altruistic](https://github.com/Being-Altruistic)
 
